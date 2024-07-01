@@ -1,0 +1,48 @@
+.Home{
+    text-align: center;
+    padding: 40px;
+}
+.Home h1{
+    font-size: 5vw;
+}
+
+.hero p{
+    font-size: min(3vw, 24px);
+    padding: 40px 12vw 40px 12vw;
+}
+
+.Home form{
+padding: 8px;
+background-color: white; border-radius: 5px; font-size: 20px; display: flex;
+gap: 10px;
+max-width: 600px;
+margin: 0 auto;
+}
+
+.Home input{
+    flex: 1;
+    font-size: 16px;
+    outline: none;
+    border: none;
+    padding-left: 10px;
+}
+
+.Home button{
+border: none;
+background: #7927ff;
+color: white; font-size: 16px;
+padding: 10px 30px; border-radius: 5px; cursor: pointer;
+}
+
+.crypto{
+    max-width: 800px;
+    margin: auto;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    display: grid;
+    grid-template-columns: 0.5fr 2fr 1fr 1fr 1.5fr;
+    padding: 15px 20px; 
+    align-items: center;
+    border-bottom: 1px solid #3c3c3c;
+    margin-top: 40px;
+}

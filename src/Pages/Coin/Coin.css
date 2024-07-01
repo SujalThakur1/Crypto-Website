@@ -1,0 +1,27 @@
+.Coin{
+    text-align: center;
+    padding: 30px 30px 40px 30px;
+}
+.Coin h1{
+    padding: 10px;
+    padding-bottom: 50px;
+}
+.Crypto-img{
+width: max(10vw, 90px);
+}
+.chart{
+width: max(50vw, 450px);
+padding-bottom: 20px;
+}
+
+.details{
+ width: max(50vw, 450px);
+ margin: auto;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #3c3c3c;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

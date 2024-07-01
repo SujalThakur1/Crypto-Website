@@ -1,0 +1,9 @@
+.footer p{
+    border-top: 1px solid #3c3c3c;
+    text-align: center;
+    padding-top: 20px;
+    margin: auto;
+    max-width: 900px;
+    color: rgba(219, 214, 214, 0.493);
+    padding-bottom: 30px;
+}

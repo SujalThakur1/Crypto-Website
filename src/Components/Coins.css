@@ -1,0 +1,27 @@
+.coinDetails{
+    max-width: 800px;
+    margin: auto;
+    background: rgba(54, 53, 53, 0.183);
+    display: grid;
+    grid-template-columns: 0.5fr 2fr 1fr 1fr 1.5fr;
+    padding: 15px 20px; 
+    align-items: center;
+    border-bottom: 1px solid #3c3c3c;
+}
+
+.coinDetails img{
+    max-width: 30px;
+}
+
+.name{
+    align-items: center;
+    margin-left: 20px;
+    display: flex;
+    gap: 10px;
+}
+.positive{
+    color: rgb(64, 213, 64);
+}
+.negative{
+    color: rgb(255, 72, 72);
+}
